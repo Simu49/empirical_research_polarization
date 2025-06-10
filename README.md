@@ -29,7 +29,7 @@ We used panel data from GLES waves 1–9 and 19 to examine how social media acti
 
 | File / Folder | Description |
 |---------------|-------------|
-| `empirical_research_polarization.R` | Main R script for data wrangling, visualization, and modeling |
+| `Polarization_project_empirical_research.R` | Main R script for data wrangling, visualization, and modeling |
 | `Empirical_research_paper_Kellner_Schlaepfer_Bernhard.pdf` | Research paper |
 | `Summary_research_paper_Kellner_Schlaepfer_Bernhard.pdf` | Short summary of the paper |
 | `README.md` | Project overview and instructions |
